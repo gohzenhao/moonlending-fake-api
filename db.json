@@ -1,0 +1,365 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "project_name": "Catlan",
+      "project_detail": "Catlan comprises of 4,402 sqm in net leasable area spread across 12 levels of office accommodation, accompanied by 2 levels of basement parking.",
+      "type1": "Commercial Office",
+      "lrv": "40%",
+      "limit": "18000000",
+      "type2": "Non-Recourse Commercial Facility (Interest Only)",
+      "loan_term": "12 months",
+      "location": "68 Alfred Street, Milsons Point NSW 2061",
+      "facility_purpose": "Refinance of existing commercial loan from ANZ",
+      "image_url": "project_1.png",
+      "status": "accepted"
+    },
+    {
+      "id": 2,
+      "project_name": "The Grand One Place",
+      "project_detail": "A mixed use Project comprising 1 retail tenancy, 96 serviced apartments (100 keys), and 169 residential apartments",
+      "type1": "Serviced Apartment & Residential Apartment",
+      "lrv": "74%",
+      "limit": "25000000",
+      "type2": "Senior Debt Investment Facility",
+      "loan_term": "36 months",
+      "location": "221 Miller Street, North Sydney, NSW 2060",
+      "facility_purpose": "Senior debt for equity release",
+      "image_url": "project_2.png",
+      "status": "pending"
+    },
+    {
+      "id": 3,
+      "project_name": "Hampstead",
+      "project_detail": "82 - 96 Hampstead Road, Maidstone Lots S4 and 5% have been identified for high density development to comprise 438 apartments and 600 sqm of retail.",
+      "type1": "Residential Apartment",
+      "lrv": "60%",
+      "limit": "12300000",
+      "type2": "Land bank refinance",
+      "loan_term": "24 months",
+      "location": "Lots S4 & S5 86 - 92 Hampstead Road, Maidstone VIC 3012",
+      "facility_purpose": "Refinance of existing commercial loan from Multiple Capital",
+      "image_url": "project_3.png",
+      "status": "pending"
+    },
+    {
+      "id": 4,
+      "project_name": "Diamond Grand",
+      "project_detail": "This project comprises 93 dwellings across 3-8 storeys and 5 retail tenancies above 3 levels of basement car parking located in Ashfiled immediatelhy adjoining a reailway line on its northern boundary.",
+      "type1": "Residential Apartment & Retail shops",
+      "lrv": "50%",
+      "limit": "36000000",
+      "type2": "Development/Construction Loan",
+      "loan_term": "18 months",
+      "location": "5 Markham Avenue, Ashfield NSW 2131",
+      "facility_purpose": "Finance for the development cost",
+      "image_url": "project_4.png",
+      "status": "new"
+    }
+  ],
+  "project-details": [
+    {
+      "id": 1,
+      "page_title": "Catlan",
+      "status": "accepted",
+      "project_description_title": "Project Description",
+      "project_description": "a mixed use Project comprising 1 retail tenancy, 96 serviced apartments (100 keys), and 169 residential apartments.This finance proposal relates to the serviced apartment component of the Project.",
+      "project_heading": "One Grant Place",
+      "sponsor_title": "Sponsor",
+      "sponsor_description": "Good Property Developer ('GPD') is a private investment management company established in Sydney in 2008. The company is active across asset investment across a range of commercial real estate asset classes, however most predominantly retail, commercial office and residential.",
+      "sponsor_image_url": "sponsor.png",
+      "borrower_or_landowner_title": "Borrower / Landowner",
+      "borrower_or_landowner_graph": [
+        "Jordan Family Trust",
+        "Stan Family Trust",
+        "Lee Family Trust"
+      ],
+      "borrower_or_landowner_description": "Grand Plaza No.1 Pty Ltd (ACN 6502 532 23) ATF the GDP 29 Unit Trust ABN 87 523 421 234",
+      "image_url": "project_1.png",
+      "funding_requirement_title": "Funding requirements",
+      "funding_requirement": [
+        {
+          "heading": "",
+          "title": "Type",
+          "description": "Senior Debt Investment Facility"
+        },
+        {
+          "heading": 74,
+          "title": "LVR",
+          "description": "Maximum LVR not to exceed 74% of the 'in one line' value by the lender's panel valuer"
+        },
+        {
+          "heading": "$25m",
+          "title": "Limit",
+          "description": "Subject to valuation and compliance with proposed facility LVR"
+        },
+        {
+          "heading": "36 months",
+          "title": "Term",
+          "description": "subject to valuation and compliance with proposed facility LVR"
+        },
+        {
+          "heading": "",
+          "title": "Interset",
+          "description": ""
+        },
+        {
+          "heading": "N/A",
+          "title": "Valuation",
+          "description": "To be undertaken. The apartments will not be strata titled, so will be valued ‘in one line"
+        }
+      ],
+      "map_url": "221 Miller Street, North Sydney, NSW 2060",
+      "facilities_background_title": "Facility Background",
+      "facilities_background_description": "The Borrower is seeking to raise senior debt against a newly completed service apartment complex comprising 100 keys plus common areas:'1- 83 * studio apartments' '2- 9*1 bed apartments' '3- 4*2 bed apartments (dual keys)'; and'4- Gym & conference room.'The sponsor has entered into a lease agreement with Quest Apartments for a gross annual income of' $2.5M' plus GST (less outgoings). The lease term is 15 years plus '2*5' years options. The lease commences in August 2019, with annual fixed increases of '3%', from the second anniversary the lease commencement.",
+      "facilities_purpose_title": "",
+      "security_title": "Security",
+      "security_description": "1. 1st registered mortgage over the serviced apartments; 2. 1st ranked General Security Agreement over the Borrower"
+    },
+    {
+      "id": 2,
+      "page_title": "The Grand One Place",
+      "status": "pending",
+      "project_description_title": "Project Description",
+      "project_description": "B4 Mixed Use; land area 3,196 square metres This project comprises 93 dwellings across 3-8 storeys and 5 retail tenancies above 3 levels of basement car parking located in Ashfiled immediatelhy adjoining a reailway line on its northern boundary.",
+      "project_heading": "The Grand One Place",
+      "sponsor_title": "Sponsor",
+      "sponsor_description": "Ganghui Pty Ltd is one of Australia’s leading real estate developers, was established in 2013 and has maintained a solid record of muliple residential projects across Sydney.",
+      "sponsor_image_url": "sponsor2.png",
+      "borrower_or_landowner_title": "Borrower / Landowner",
+      "borrower_or_landowner_graph": [
+        "Jordan Family Trust",
+        "Stan Family Trust",
+        "Lee Family Trust"
+      ],
+      "borrower_or_landowner_description": "Ganghui Pty Ltd (ACN 165 853 332)",
+      "image_url": "project_2.png",
+      "funding_requirement_title": "Funding requirements",
+      "funding_requirement": [
+        {
+          "heading": "",
+          "title": "Type",
+          "description": "Senior Debt Investment Facility"
+        },
+        {
+          "heading": 50,
+          "title": "LVR",
+          "description": ""
+        },
+        {
+          "heading": "$36m",
+          "title": "Limit",
+          "description": "Subject to valuation and compliance with proposed facility LVR"
+        },
+        {
+          "heading": "18 months",
+          "title": "Term",
+          "description": "subject to valuation and compliance with proposed facility LVR"
+        },
+        {
+          "heading": "",
+          "title": "Interset",
+          "description": ""
+        },
+        {
+          "heading": "N/A",
+          "title": "Valuation",
+          "description": "To be undertaken. The apartments will not be strata titled, so will be valued ‘in one line"
+        }
+      ],
+      "map_url": "221 Miller Street, North Sydney, NSW 2060",
+      "facilities_background_title": "Facility Background",
+      "facilities_background_description": "The Borrower is seeking to raise senior debt against a newly completed service apartment complex comprising 100 keys plus common areas:    '1- 83 * studio apartments''2- 9*1 bed apartments''3- 4*2 bed apartments (dual keys)'; and'4- Gym & conference room.'The sponsor has entered into a lease agreement with Quest Apartments for a gross annual income of' $2.5M' plus GST (less outgoings). The lease term is 15 years plus '2*5' years options. The lease commences in August 2019, with annual fixed increases of '3%', from the second anniversary the lease commencement.",
+      "facilities_purpose_title": "",
+      "security_title": "Security",
+      "security_description": "1. 1st registered mortgage over the serviced apartments;. 1st ranked General Security Agreement over the Borrower"
+    },
+    {
+      "id": 3,
+      "page_title": "Hampstead",
+      "status": "pending",
+      "project_description_title": "Project Description",
+      "project_description": "82 - 96 Hampstead Road, Maidstone Lots S4 and S% have been identified for high density development to comprise 438 apartments and 600 sqm of retail",
+      "project_heading": "Hampstead",
+      "sponsor_title": "Sponsor",
+      "sponsor_description": "Good Property Developer ('GPD') is a private investment management company established in Sydney in 2008. The company is active across asset investment across a range of commercial real estate asset classes, however most predominantly retail, commercial office and residentialBewise is an independently owned real estate private equity investment platform with a well- established track record investing in the opportunistic, value add and core/core plus strategies in Melbourne. Its portfolio of assets comprised mainly of land subdivision and apartments development.Projects competed: 520 Mitcham Road, Mitcham - 29 townhouses all sold in 2018;20 -23 Airdrie Court, Templestowe Lower 15 townhouses;259 -263 Bellerine Street, South Geelong 28 townhouses;31 -49 Browns Road, Clayton 400+ townhouses & 400+ apartments.",
+      "sponsor_image_url": "sponsor3.png",
+      "borrower_or_landowner_title": "Borrower / Landowner",
+      "borrower_or_landowner_graph": [
+        "Jordan Family Trust",
+        "Stan Family Trust",
+        "Lee Family Trust"
+      ],
+      "borrower_or_landowner_description": "Bewise (Maidstone) Development JV Pty Ltd CAN: 612 323 190",
+      "image_url": "project_3.png",
+      "funding_requirement_title": "Funding requirements",
+      "funding_requirement": [
+        {
+          "heading": "",
+          "title": "Type",
+          "description": "A$12,300,000 land bank refinance facility (Interest Only)"
+        },
+        {
+          "heading": 60,
+          "title": "LVR",
+          "description": "Max. 60% on an 'as-is' basis"
+        },
+        {
+          "heading": "$12,300,000",
+          "title": "Limit",
+          "description": "Subject to valuation and compliance with proposed facility LVR"
+        },
+        {
+          "heading": "Max tenor 24 monthsMin Tenor 12 months",
+          "title": "Term",
+          "description": "subject to valuation and compliance with proposed facility LVR"
+        },
+        {
+          "heading": "",
+          "title": "Interset",
+          "description": ""
+        },
+        {
+          "heading": "$20,500,000 by CKC 16/05/2019",
+          "title": "Valuation",
+          "description": "This Valuation Report is prepared for Bewise (Maidstone) Development JV Pty Ltd for Mulitple Capital for first mortgage purposes only and is not to be used or relied upon by any other party for any other purpose."
+        }
+      ],
+      "map_url": "221 Miller Street, North Sydney, NSW 2060",
+      "facilities_background_title": "Facility Background",
+      "facilities_background_description": "The Borrower is seeking to raise senior debt against a newly completed service apartment complex comprising 100 keys plus common areas:    '1- 83 * studio apartments''2- 9*1 bed apartments''3- 4*2 bed apartments (dual keys)'; and'4- Gym & conference room.'The sponsor has entered into a lease agreement with Quest Apartments for a gross annual income of' $2.5M' plus GST (less outgoings). The lease term is 15 years plus '2*5' years options. The lease commences in August 2019, with annual fixed increases of '3%', from the second anniversary the lease commencement.",
+      "facilities_purpose_title": "",
+      "security_title": "Security",
+      "security_description": "1. 1st ranking registered mortgage over all titles comprising the property;2. 1st ranking Specific Security Agrement over present and after-acquired property relating to Lots S4 and S5 of the borrower;3. Personal guarantee from the Directors;4. Unregistered 2nd ranking mortgage over Lot S3,        90 Wattle Road Maidstone VIC 3012;5. GSA"
+    }
+  ],
+  "project-files": [
+    {
+      "id": 1,
+      "project_title": "Catlan",
+      "files": [
+        {
+          "file_id": 1,
+          "document_name": "Valuation Report",
+          "file_name": "valuation_200421.pdf",
+          "file_link": "/test/file/abc.pdf",
+          "reviewed": true,
+          "acceptance": true,
+          "comments": "",
+          "file_type": "pdf"
+        },
+        {
+          "file_id": 2,
+          "document_name": "QS Report",
+          "file_name": "qs_report.pdf",
+          "file_link": "/test/file/abc.pdf",
+          "reviewed": true,
+          "acceptance": false,
+          "comments": "Resubmit again",
+          "file_type": "pdf"
+        },
+        {
+          "file_id": 3,
+          "document_name": "DA",
+          "file_name": "da.docx",
+          "file_link": "/test/file/abc.pdf",
+          "reviewed": true,
+          "acceptance": true,
+          "comments": "",
+          "file_type": "docx"
+        },
+        {
+          "file_id": 4,
+          "document_name": "Town Planning Advice",
+          "file_name": "advice_1.xlsx",
+          "file_link": "/test/file/abc.pdf",
+          "reviewed": false,
+          "acceptance": false,
+          "comments": "",
+          "file_type": "xlsx"
+        },
+        {
+          "file_id": 5,
+          "document_name": "Geotechnical and Environmental Reports",
+          "file_name": "geo_environ.zip",
+          "file_link": "/test/file/abc.pdf",
+          "reviewed": false,
+          "acceptance": false,
+          "comments": "",
+          "file_type": "zip"
+        },
+        {
+          "file_id": 6,
+          "document_name": "Feasibility Report",
+          "file_name": "report.xlsx",
+          "file_link": "/test/file/abc.pdf",
+          "reviewed": false,
+          "acceptance": false,
+          "comments": "",
+          "file_type": "xlsx"
+        },
+        {
+          "file_id": 7,
+          "document_name": "Copies of Pre-sales Contracts",
+          "file_name": "pre_sales.docx",
+          "file_link": "/test/file/abc.pdf",
+          "reviewed": false,
+          "acceptance": false,
+          "comments": "",
+          "file_type": "docx"
+        },
+        {
+          "file_id": 8,
+          "document_name": "Master Contract of Sales",
+          "file_name": "sales.dcox",
+          "file_link": "/test/file/abc.pdf",
+          "reviewed": false,
+          "acceptance": false,
+          "comments": "",
+          "file_type": "docx"
+        }
+      ]
+    }
+  ],
+  "issue-its": [
+    {
+      "id": 1,
+      "project_title": "Catlan",
+      "status": "accepted",
+      "interest_rate": 2.8,
+      "upfront_fee": 20000,
+      "loan_facilities_limit": 8000,
+      "line_fee": 5000,
+      "max_tenor": 500000,
+      "all_in_fee": 20000000,
+      "min_tenor": 200000,
+      "drawdown_date": "20th Feb 2025"
+    },
+    {
+      "id": 2,
+      "project_title": "The Grand One Place",
+      "status": "accepted",
+      "interest_rate": 2.8,
+      "upfront_fee": 20000,
+      "loan_facilities_limit": 8000,
+      "line_fee": 5000,
+      "max_tenor": 500000,
+      "all_in_fee": 20000000,
+      "min_tenor": 200000,
+      "drawdown_date": "20th Feb 2025"
+    },
+    {
+      "id": 3,
+      "project_title": "Hampstead",
+      "status": "accepted",
+      "interest_rate": 2.8,
+      "upfront_fee": 20000,
+      "loan_facilities_limit": 8000,
+      "line_fee": 5000,
+      "max_tenor": 500000,
+      "all_in_fee": 20000000,
+      "min_tenor": 200000,
+      "drawdown_date": "20th Feb 2025"
+    }
+  ]
+}
